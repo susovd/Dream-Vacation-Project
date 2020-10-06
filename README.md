@@ -1,15 +1,11 @@
-# noPreferenceInCamelCase
-
 <!---Project Logo -->
 <br />
 <p align="center">
-  <img src="Images/equatorsign.png" alt="Logo">
-
   <h3 align="center">Dream Vacation Location</h3>
   <p align="center">
     A Python API Project
     <br />
-</p>
+  </p>
 </p>
 
 
