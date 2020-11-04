@@ -26,7 +26,7 @@ This project tackles the problem of weather patterns as one moves closer to equa
 
 ![Equator](Images/equatorsign.png)
 
-## Part I - WeatherPy
+## Part I - Weather patterns around the globe
 
 In this project, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
@@ -77,7 +77,7 @@ I accomplished the following with the data.
   * Drop any rows that don't contain all three conditions. 
 
   
-* Using Google Places API to find the first hotel for each city located within 5000 meters of the coordinates.
+* Using Google Places API, find the first hotel for each city located within 5000 meters of the coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
@@ -99,7 +99,7 @@ I accomplished the following with the data.
 
 
 ## Results
-Based on my data and criteria for ideal vacation weather, I found out that my ideal vacation location is Lanzhou, China.
+Based on my data and criteria for ideal vacation weather, my ideal vacation location is Lanzhou, China.
 
 
 **Additional reference materials:**
