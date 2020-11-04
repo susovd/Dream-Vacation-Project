@@ -64,7 +64,7 @@ I accomplished the following with the data.
 
 * Create a heat map that displays the humidity for every city from the part I of the project.
 
-  ![heatmap](Images/map.png)
+  ![heatmap](Images/map2.png)
 
 * Narrow down the DataFrame to find my ideal weather condition. For example:
 
@@ -81,7 +81,7 @@ I accomplished the following with the data.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](Images/map2.png)
+  ![hotel map](Images/map.png)
 
 
 ### Built With
