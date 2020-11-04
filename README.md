@@ -56,7 +56,7 @@ In the end, I accomplished the following:
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-### Part II - VacationPy
+### Part II - Finding ideal vacation location in the world
 
 In this part, I use the weather data to plan future vacations. I used jupyter-gmaps and the Google Places API for this part of the assignment.
 
@@ -64,7 +64,7 @@ I accomplished the following with the data.
 
 * Create a heat map that displays the humidity for every city from the part I of the project.
 
-  ![heatmap](Images/heatmap.png)
+  ![heatmap](Images/map.png)
 
 * Narrow down the DataFrame to find my ideal weather condition. For example:
 
@@ -81,7 +81,7 @@ I accomplished the following with the data.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](Images/hotel_map.png)
+  ![hotel map](Images/map2.png)
 
 
 ### Built With
